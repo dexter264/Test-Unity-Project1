@@ -1,0 +1,16 @@
+newmtl Paint
+Kd 1 1 1
+d 1
+
+newmtl Black
+Kd 0 0 0
+d 1
+
+newmtl Glass
+Kd 0 0.9909527 1
+d 1
+
+newmtl Gray
+Kd 0.4339623 0.4339623 0.4339623
+d 1
+
